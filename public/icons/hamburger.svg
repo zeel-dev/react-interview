@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hamburger Menu Icon</title>
+    <defs>
+        <path d="M15,10.4999 C15.2761424,10.4999 15.5,10.7237576 15.5,10.9999 C15.5,11.2760424 15.2761424,11.4999 15,11.4999 L1,11.4999 C0.723857625,11.4999 0.5,11.2760424 0.5,10.9999 C0.5,10.7237576 0.723857625,10.4999 1,10.4999 L15,10.4999 Z M15,5.4999 C15.2761424,5.4999 15.5,5.72375763 15.5,5.9999 C15.5,6.27604237 15.2761424,6.4999 15,6.4999 L1,6.4999 C0.723857625,6.4999 0.5,6.27604237 0.5,5.9999 C0.5,5.72375763 0.723857625,5.4999 1,5.4999 L15,5.4999 Z M15,0.4999 C15.2761424,0.4999 15.5,0.723757625 15.5,0.9999 C15.5,1.27604237 15.2761424,1.4999 15,1.4999 L1,1.4999 C0.723857625,1.4999 0.5,1.27604237 0.5,0.9999 C0.5,0.723757625 0.723857625,0.4999 1,0.4999 L15,0.4999 Z" id="hamburger-menu-path-1"></path>
+    </defs>
+    <g id="hamburger-menu-Icon/Global/Menu/Hamburger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hamburger-menu-Swatches/DarkGreen" transform="translate(4.000000, 6.000000)">
+            <use id="hamburger-menu-Mask" fill="currentcolor" fill-rule="nonzero" xlink:href="#hamburger-menu-path-1"></use>
+        </g>
+    </g>
+</svg>
