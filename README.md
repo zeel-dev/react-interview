@@ -9,16 +9,17 @@ e.g:
 - What is the data-flow (do we need a data-store?)
 
 
-## 2 - Build the UI
+## 2 - Fetch data and display in component
 
-Now that we broke it down, let's start building it. Imagine the scenario where the code was already started by another dev, and you take over and continue where he left off.
+Running the app and server, you can hit http://localhost:8099/users to fetch users. Fetch the data in the Home page, and display the users.
 
-* No prior decisions are final, so you're free to take any decisions to improve the codebase.
 
-1 - reviewing the existing code
-2 - creating the "users" page structure
-3 - create an input component
-4 - fetch users from api and filter using input
+## 3 - Fixing and giving feedback to coworker about his /coworker page
+
+Look at the page your coworker built. There are a lot of issues. 
+Imagine I am the teammate that wrote this, show me how you’d give me feedback on what I did wrong (almost as if it was a PR, or he was coming to you to get your opinion).
+
+Then, fix all the issues.
 
 
 ## Run the project
