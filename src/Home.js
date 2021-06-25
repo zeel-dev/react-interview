@@ -1,19 +1,19 @@
-import React, { Component } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 
-class Home extends Component {
-  render() {
-    return (
-      <div>
-        <nav>
-          <img src={logo} alt="logo" />
-        </nav>
-        <div className="page">
-          <p>This is the home page</p>
-        </div>
+// Fetch users with local api http://localhost:8099/users
+
+const Home = () => {
+  return (
+    <div>
+      <nav>
+        <img src={logo} alt="logo" />
+      </nav>
+      <div className="page">
+        <p>Render some users here</p>
       </div>
-    );
-  }
+    </div>
+  );
 }
 
 export default Home;
